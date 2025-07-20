@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|c:\\users\\propietario\\documents\\github\\guerrilladevfest\\assets\\fps\\scripts\\ui\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|solutionrelative:assets\\fps\\scripts\\ui\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0AF6FC-06A7-CDFC-C71F-1A5CBD45B9BF}|Assembly-CSharp.csproj|c:\\users\\propietario\\documents\\github\\guerrilladevfest\\assets\\fps\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0AF6FC-06A7-CDFC-C71F-1A5CBD45B9BF}|Assembly-CSharp.csproj|solutionrelative:assets\\fps\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\objectives\\objectivekillenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\objectives\\objectivekillenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\projectilestandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\projectilestandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\shared\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\shared\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ui\\playerhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|solutionrelative:assets\\fps\\scripts\\ui\\playerhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\playercharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\playercharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\managers\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\managers\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\shared\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\shared\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\detectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\detectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\allayfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\allayfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\fps.gameplay.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\fps.gameplay.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\shared\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\shared\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\objectives\\objectivereachpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\objectives\\objectivereachpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\objectives\\objectivepickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\objectives\\objectivepickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\patrolpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\patrolpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\enemypatroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\enemypatroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\meshcombiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\meshcombiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ui\\objectivehudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|solutionrelative:assets\\fps\\scripts\\ui\\objectivehudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ui\\objectivetoast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|solutionrelative:assets\\fps\\scripts\\ui\\objectivetoast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\managers\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\managers\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ai\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F18EEBD-A707-2FB4-1938-C3EF4462204E}|fps.AI.csproj|solutionrelative:assets\\fps\\scripts\\ai\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ui\\crosshairmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|solutionrelative:assets\\fps\\scripts\\ui\\crosshairmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\managers\\soldierstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\managers\\soldierstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\ui\\weaponhudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA330FF1-8C0F-656B-2A1F-CADAF2024E31}|fps.UI.csproj|solutionrelative:assets\\fps\\scripts\\ui\\weaponhudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\managers\\playerweaponsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\managers\\playerweaponsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\shared\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\shared\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\jetpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\jetpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\gameplay\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:assets\\fps\\scripts\\gameplay\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\shared\\projectilebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\shared\\projectilebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\prefabreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\prefabreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\managers\\objectivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\managers\\objectivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\assets\\fps\\scripts\\game\\managers\\actorsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2C397-0EAB-7DD2-4256-E5F4C7EA090B}|fps.Game.csproj|solutionrelative:assets\\fps\\scripts\\game\\managers\\actorsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\FollowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Gameplay\\Managers\\FollowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Gameplay\\Managers\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\DetectionModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\DetectionModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\AllaysAppear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2A51D7-DA81-6758-A61A-97B6273C3731}|fps.Gameplay.csproj|solutionrelative:Assets\\FPS\\Scripts\\Gameplay\\AllaysAppear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\MenuNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\MenuNavigation.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\MenuNavigation.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\MenuNavigation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:47:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:05:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\PlayerHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\PlayerHealthBar.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\PlayerHealthBar.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\PlayerHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:34:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:57:14.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AllaysAppear.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\AllaysAppear.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\AllaysAppear.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\AllaysAppear.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\AllaysAppear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:50:06.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:45:09.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerCharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAA1wK8BAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:59:46.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectileStandard.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAiwCQBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:27:33.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectiveKillEnemies.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:15:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:31:59.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAewPYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:13:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetectionModule.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\DetectionModule.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\DetectionModule.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\DetectionModule.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\DetectionModule.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:33:27.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Actor.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Actor.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Actor.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Actor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:15:26.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:36:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AllayFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\AllayFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\AllayFollow.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\AllayFollow.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\AllayFollow.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:03:36.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerInputHandler.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerInputHandler.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerInputHandler.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAWwFgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:11:55.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ObjectivePickupItem.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectivePickupItem.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectivePickupItem.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectivePickupItem.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectivePickupItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:45:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ObjectiveReachPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveReachPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveReachPoint.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveReachPoint.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveReachPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:49:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Objective.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\Objective.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\Objective.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\Objective.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\Objective.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:37:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fps.Gameplay.asmdef",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\fps.Gameplay.asmdef",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\fps.Gameplay.asmdef",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\fps.Gameplay.asmdef",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\fps.Gameplay.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-11-18T01:20:11.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DetectionModule.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\DetectionModule.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\DetectionModule.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\DetectionModule.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\DetectionModule.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:27:46.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatrolPath.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\PatrolPath.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\PatrolPath.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\PatrolPath.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\PatrolPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:00:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyPatroll.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\EnemyPatroll.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyPatroll.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\EnemyPatroll.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyPatroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:51:46.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MeshCombiner.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\MeshCombiner.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\MeshCombiner.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\MeshCombiner.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\MeshCombiner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:59:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\SpawnManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:15:14.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ObjectiveHUDManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\ObjectiveHUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\ObjectiveHUDManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\ObjectiveHUDManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\ObjectiveHUDManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:34:33.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ObjectiveToast.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\ObjectiveToast.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\ObjectiveToast.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\ObjectiveToast.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\ObjectiveToast.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:14:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameFlowManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:07:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FollowManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\FollowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\FollowManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\FollowManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\FollowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:18:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\AI\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:47:47.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CrosshairManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\CrosshairManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\CrosshairManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\CrosshairManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\CrosshairManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:51:11.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SoldierState.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\SoldierState.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\SoldierState.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\SoldierState.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\SoldierState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:12:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeaponHUDManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\WeaponHUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\WeaponHUDManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\UI\\WeaponHUDManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\WeaponHUDManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:08:02.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlayerWeaponsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerWeaponsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerWeaponsManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerWeaponsManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Managers\\PlayerWeaponsManager.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAuwBYCAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:31:39.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeaponController.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\WeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\WeaponController.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\WeaponController.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\WeaponController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:23:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Jetpack.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Jetpack.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Jetpack.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\Jetpack.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Jetpack.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAD4v00AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:20:37.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HealthPickup.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\HealthPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\HealthPickup.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\HealthPickup.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\HealthPickup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:04:17.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WeaponPickup.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\WeaponPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\WeaponPickup.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Gameplay\\WeaponPickup.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\WeaponPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:00:09.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProjectileBase.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PrefabReplacer.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\PrefabReplacer.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\PrefabReplacer.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\PrefabReplacer.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\PrefabReplacer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:20:44.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ObjectiveManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Managers\\ObjectiveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Managers\\ObjectiveManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Managers\\ObjectiveManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Managers\\ObjectiveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:19:51.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ActorsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Managers\\ActorsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Managers\\ActorsManager.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Documents\\GitHub\\GuerrillaDevFest\\Assets\\FPS\\Scripts\\Game\\Managers\\ActorsManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Managers\\ActorsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:19:16.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
