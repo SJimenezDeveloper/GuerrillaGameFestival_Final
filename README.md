@@ -28,7 +28,7 @@ Esta edición se caracterizó por el **tiempo límite extremo**, la presión rea
 En un sector donde innovar en shooters es cada vez más complicado, apostamos por una mecánica disruptiva con alto potencial tanto jugable como narrativo:  
 **La Mente Colmena ("Hivemind") y el Cambio de Cuerpo ("Change Body")**.
 <div align="center">
-  <img src="imagenes/idea.png" alt="Esquema Inicial" width="70%">
+  <img src="imagenes/Captura de pantalla 2025-07-20 193504.png" alt="Esquema Inicial" width="70%">
   <p><i>Esquema Inicia</i></p>
 </div>
 ---
